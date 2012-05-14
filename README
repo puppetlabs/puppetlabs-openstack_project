@@ -1,3 +1,14 @@
+NOTE: this project will be deprecated in favor of:
+
+  https://github.com/puppetlabs/puppetlabs-openstack
+
+It contains some great examples of how to get started with
+testing with Vagrant, but unfortunaly implemented git submodules
+which are just too much of a pain to use for development.
+
+These submodules are no longer being maintained.
+
+
 Puppet Labs OpenStack
 =====================
 
